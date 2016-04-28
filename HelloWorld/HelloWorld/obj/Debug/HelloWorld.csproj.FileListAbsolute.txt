@@ -1,0 +1,9 @@
+C:\Users\rwalker\Dropbox\Education\MVA\C#-Fundamentals\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\rwalker\Dropbox\Education\MVA\C#-Fundamentals\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\rwalker\Dropbox\Education\MVA\C#-Fundamentals\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\rwalker\Dropbox\Education\MVA\C#-Fundamentals\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\rwalker\Dropbox\Education\MVA\C#-Fundamentals\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\rwalker\Dropbox\Education\MVA\C#-Fundamentals\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\rwalker\Dropbox\Education\MVA\C#-Fundamentals\Rob-MVA-C\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\rwalker\Dropbox\Education\MVA\C#-Fundamentals\Rob-MVA-C\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\rwalker\Dropbox\Education\MVA\C#-Fundamentals\Rob-MVA-C\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
